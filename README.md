@@ -15,4 +15,4 @@ Include information on how to get support.
 
 ## Thank You
 
-Thanks for paying attention, and hope it was usefull for you!
+Thanks for paying attention, and hope this was useful for you!
